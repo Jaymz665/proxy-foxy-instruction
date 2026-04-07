@@ -1,7 +1,17 @@
-## Инструкция для тех, у  кого “интернет” не работает через “интернет”.
+# Инструкция для тех, у  кого “интернет” не работает через “интернет”.
 
 
-Устанавливаете приложение HAPP [по инструкции](https://telegra.ph/Happ---Bystryj-start-03-25)
+## Установка
+
+Выберите вашу платформу и нажмите для установки:
+
+[Официальный сайт](https://www.happ.su/main/ru )
+
+[🖥️ Windows](https://github.com/Happ-proxy/happ-desktop/releases/latest/download/setup-Happ.x64.exe)
+
+[📱 Google Play](https://play.google.com/store/apps/details?id=com.happproxy)
+
+[📱 iOS/macOS](https://apps.apple.com/ru/app/happ-proxy-utility-plus/id6746188973)
 
 Копируете ссылку и вставляете в приложение:
 
